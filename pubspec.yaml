@@ -4,8 +4,8 @@ version: 0.0.7
 repository: https://github.com/KyleWhale/ios_orientation
 
 environment:
-  sdk: '>=2.19.2 <3.0.0'
-  flutter: ">=2.5.0"
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
